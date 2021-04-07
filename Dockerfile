@@ -1,2 +1,2 @@
 FROM fedora:latest
-RUN dnf install -y buildah
+RUN dnf install -y buildah findutils
